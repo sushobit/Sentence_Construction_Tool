@@ -4,9 +4,9 @@ An interactive and aesthetic sentence construction quiz built using **React**, *
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.0-38b2ac?logo=tailwindcss)
-![Firebase](https://img.shields.io/badge/Firebase-9.0-yellow?logo=firebase)
+![Framer Motion](https://img.shields.io/badge/Framer--Motion-5.6-purple?logo=framer)
+![React Hooks](https://img.shields.io/badge/React--Hooks-%23E91E63.svg?logo=react)
 ![MUI](https://img.shields.io/badge/MUI-v5-007FFF?logo=mui)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
