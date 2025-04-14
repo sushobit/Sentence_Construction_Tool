@@ -1,6 +1,6 @@
 # 🧠 Sentence Construction Quiz App
 
-An interactive and aesthetic sentence construction quiz built using **React**, **Vite**, **Tailwind CSS**, **Firebase**, and **MUI**. This application is designed for timed quizzes, feedback screens, and animated interactions — ideal for language learners and reasoning practice.
+An interactive and aesthetic sentence construction quiz built using **React**, **Vite**, **Tailwind CSS**, and **MUI**. This application is designed for timed quizzes, feedback screens, and animated interactions — ideal for language learners and reasoning practice.
 
 ![React](https://img.shields.io/badge/React-18-blue?logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.0-38b2ac?logo=tailwindcss)
@@ -38,7 +38,7 @@ An interactive and aesthetic sentence construction quiz built using **React**, *
 - Custom hover effects, gradient backgrounds, and smooth transitions.
 
 ### 📁 Data Source
-- Questions are loaded from static JSON (can be run by JSON Server on localhost).
+- Questions are loaded from static JSON (can also be run by JSON Server on localhost).
 
 ---
 
